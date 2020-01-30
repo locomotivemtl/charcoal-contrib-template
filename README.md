@@ -43,7 +43,7 @@ $ composer require locomotivemtl/charcoal-contrib-foobar
 
 #### Required
 
--   [**PHP 5.6+**](https://php.net): _PHP 7_ is recommended.
+-   [**PHP 7.1+**](https://php.net): _PHP 7.3+_ is recommended.
 
 
 
@@ -158,3 +158,4 @@ Charcoal is licensed under the MIT license. See [LICENSE](LICENSE) for details.
 [psr-6]:  https://www.php-fig.org/psr/psr-6/
 [psr-7]:  https://www.php-fig.org/psr/psr-7/
 [psr-11]: https://www.php-fig.org/psr/psr-11/
+[psr-12]: https://www.php-fig.org/psr/psr-12/
